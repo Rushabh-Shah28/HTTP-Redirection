@@ -15,7 +15,7 @@ Read the doc file in the project, to understand -
 </ul>
 
 <h4>Screenshots</h4>
-![Alt text](https://github.com/rohansuri/HttpRedirection/blob/master/screenshot.png "GUI")
+![Alt text](https://github.com/Rushabh-Shah28/HttpRedirection/blob/master/screenshot.png "GUI")
 
 The redirect IP in the above image is of www.google.com
 
